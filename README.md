@@ -11,6 +11,6 @@ The objective of this project is to explore text generation techniques by traini
    - **Prepare the Embedding Matrix**: Preparation of the embedding matrix that will be used by the RNN-LSTM model.
 4. **RNN-LSTM Model for Text Generation**: Design and implementation of the RNN-LSTM model tailored for text generation.
 5. **Model Management**:
-   - **Save Model**: save the trained model for future use.
-   - **Load Saved Model**: loading the saved model to continue training or for text generation.
+   - **Save Model**: Save the trained model for future use.
+   - **Load Saved Model**: Loading the saved model to continue training or for text generation.
 6. **Generate Response with Variation**: Techniques to generate text responses with variations, enhancing the creativity and versatility of the generated content.
