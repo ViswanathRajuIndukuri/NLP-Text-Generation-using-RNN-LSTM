@@ -8,7 +8,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 
-## Objective
+## Project Objective
 The objective of this project is to explore text generation techniques by training an RNN-LSTM model. By understanding the nuances of language patterns, the model aims to generate text that is coherent and contextually relevant.
 
 ## Implementation Steps
